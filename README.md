@@ -1,6 +1,6 @@
-# Sheets
+# COMP205 - Object-Oriented Programming (OOP) Sheets
 
-حلول شيتات البرمجة (C++ Sheets Solutions).
+حلول شيتات وتكليفات مادة البرمجة الشيئية (OOP - COMP205).
 
 ## Structure
 
